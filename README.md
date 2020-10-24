@@ -1,2 +1,2 @@
-# software-developer-diaz
+# software-development
 Repositore seorang developer
